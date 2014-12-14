@@ -1,4 +1,7 @@
-点击WIKI，进入Tumple Github 主页。↗
+
+详情请点击右边的[Wiki](http://is.gd/tumple)tumple的github主页。↗
+
+Tumple是一个一键翻墙科学上网的工具，简单易用，无需设置
 
 ======
 
